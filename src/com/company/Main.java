@@ -33,7 +33,7 @@ public class Main {
             segm.solve();
         }
 
-        if(task_number == 4)
+        if(task_number == 36)
         {
             System.out.print("Enter A and B to display GCD and ICM" + '\n');
             int A = sc.nextInt();
